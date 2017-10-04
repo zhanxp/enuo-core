@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/zhanxp/enuo-core/issues"
   },
-  "homepage": "https://github.com/zhanxp/enuo-core#readme"
+  "homepage": "https://github.com/zhanxp/enuo-core#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "mysql": "^2.14.1",
+    "mysql-pro": "^1.0.1",
+    "redis": "^2.8.0",
+    "tracer": "^0.8.11"
+  }
 }
