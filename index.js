@@ -6,6 +6,7 @@ var api = require('./lib/apiResult');
 var Redis = require('./lib/Redis');
 var errors = require('./lib/errors');
 var logger = require('./lib/logger');
+var utils = require('./lib/utils');
 
 /**
  * Created by zhanxiaoping 
@@ -18,6 +19,7 @@ var enuo = {
     redis: new Redis(),
     errors: errors,
     logger: logger,
+    utils: utils,
     MongoDB: MongoDB,
     MysqlDB: MysqlDB,
     Redis: Redis,
