@@ -20,12 +20,10 @@
     },
     "homepage": "https://github.com/zhanxp/enuo-core#readme",
     "dependencies": {
-        "iconv-lite": "^0.4.19",
-        "log4js": "^2.3.10",
-        "mongodb": "^2.2.31",
-        "mysql": "^2.14.1",
+        "log4js": "^2.4.1",
+        "mongodb": "^2.2.34",
+        "mysql": "^2.15.0",
         "mysql-pro": "^1.0.1",
-        "redis": "^2.8.0",
-        "tracer": "^0.8.11"
+        "redis": "^2.8.0"
     }
 }
