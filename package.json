@@ -1,6 +1,6 @@
 {
     "name": "enuo-core",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "description": "node common tools",
     "main": "index.js",
     "directories": {

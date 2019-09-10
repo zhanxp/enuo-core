@@ -16,8 +16,8 @@ var logger = core.logger;
 
 
 // 3. mongo 
-// ======================== yarn add log4js-mongo-appender ==================================
-// var otp = logger.mongodb('127.0.0.1', 27017, 'logs', 'log4js_logs');
+// ======================== yarn add log4js-mongo-appender  1.0.1 ==================================
+// var otp = logger.mongodb('mongodb://127.0.0.1:27017/admin', 'logs', 'log4js_logs');
 // logger.configure('test-mongo', otp, {
 //     "source": "source1",
 //     "env": "dev"
